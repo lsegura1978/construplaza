@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="Met_CreditosPorAsociado">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="bEWSCredenciales" type="tns:BEWSCredenciales" />
+            <s:element minOccurs="0" maxOccurs="1" name="cidasociad" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="BEWSCredenciales">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="IdUsuariWs" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="PasswordWs" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="TokenWs" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="Met_CreditosPorAsociadoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Met_CreditosPorAsociadoResult" type="tns:ArrayOfBECrPrestamo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfBECrPrestamo">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="BECrPrestamo" nillable="true" type="tns:BECrPrestamo" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="BECrPrestamo">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Cidasociad" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CDetalleLi" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CNumOperac" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DFechaForm" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="NTasaInter" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="NNumCuotas" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="NCuotaReal" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="NAmorPrinc" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="NIntereses" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="NCuotaPres" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="NSaldoAnte" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="NAmorPrin2" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="NSaldoCred" type="s:decimal" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="Met_AhorrosPorAsociado">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="bEWSCredenciales" type="tns:BEWSCredenciales" />
+            <s:element minOccurs="0" maxOccurs="1" name="cidasociad" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Met_AhorrosPorAsociadoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Met_AhorrosPorAsociadoResult" type="tns:ArrayOfBEDeDeducAso" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfBEDeDeducAso">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="BEDeDeducAso" nillable="true" type="tns:BEDeDeducAso" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="BEDeDeducAso">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="CIdAsociad" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="cDesDeducc" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="nSaldoAnte" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="nMtoCuotas" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="nDepositos" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="nRetiroAho" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="nInterMovi" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="nPorceTasa" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="nMtoPrinci" type="s:decimal" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="Met_DisponiblePorAsociado">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="bEWSCredenciales" type="tns:BEWSCredenciales" />
+            <s:element minOccurs="0" maxOccurs="1" name="cidasociad" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Met_DisponiblePorAsociadoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Met_DisponiblePorAsociadoResult" type="tns:BECODisponible" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="BECODisponible">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="CIdAsociad" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CDetalleLi" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CCodigoLin" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="NDisponible" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="nDiponiPorc" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="nCapaciPago" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="nEndeduPorc" type="s:decimal" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="Met_Solicitud_Credito">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="beCrendenciales" type="tns:BEWSCredenciales" />
+            <s:element minOccurs="0" maxOccurs="1" name="cidasociad" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="pMontoCred" type="s:decimal" />
+            <s:element minOccurs="1" maxOccurs="1" name="pPlazoCred" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="cCodigolin" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pComentari" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Met_Solicitud_CreditoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Met_Solicitud_CreditoResult" type="tns:BECrResulSolicCred" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="BECrResulSolicCred">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="pResultado" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="MensajeExc" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="Met_Obtiene_Deducciones_RRHH">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="beCrendenciales" type="tns:BEWSCredenciales" />
+            <s:element minOccurs="0" maxOccurs="1" name="Prm_Tabla" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Prm_feccorte" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="prm_cinstusoc" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Met_Obtiene_Deducciones_RRHHResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Met_Obtiene_Deducciones_RRHHResult" type="tns:ArrayOfBEDeducRRHH" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfBEDeducRRHH">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="BEDeducRRHH" nillable="true" type="tns:BEDeducRRHH" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="BEDeducRRHH">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="cidasociad" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="cnombreaso" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ccodpresup" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="nmontomovi" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="dfechacort" nillable="true" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="cinstuasoc" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="cnombinsti" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="Met_CreditosPorAsociadoSoapIn">
+    <wsdl:part name="parameters" element="tns:Met_CreditosPorAsociado" />
+  </wsdl:message>
+  <wsdl:message name="Met_CreditosPorAsociadoSoapOut">
+    <wsdl:part name="parameters" element="tns:Met_CreditosPorAsociadoResponse" />
+  </wsdl:message>
+  <wsdl:message name="Met_AhorrosPorAsociadoSoapIn">
+    <wsdl:part name="parameters" element="tns:Met_AhorrosPorAsociado" />
+  </wsdl:message>
+  <wsdl:message name="Met_AhorrosPorAsociadoSoapOut">
+    <wsdl:part name="parameters" element="tns:Met_AhorrosPorAsociadoResponse" />
+  </wsdl:message>
+  <wsdl:message name="Met_DisponiblePorAsociadoSoapIn">
+    <wsdl:part name="parameters" element="tns:Met_DisponiblePorAsociado" />
+  </wsdl:message>
+  <wsdl:message name="Met_DisponiblePorAsociadoSoapOut">
+    <wsdl:part name="parameters" element="tns:Met_DisponiblePorAsociadoResponse" />
+  </wsdl:message>
+  <wsdl:message name="Met_Solicitud_CreditoSoapIn">
+    <wsdl:part name="parameters" element="tns:Met_Solicitud_Credito" />
+  </wsdl:message>
+  <wsdl:message name="Met_Solicitud_CreditoSoapOut">
+    <wsdl:part name="parameters" element="tns:Met_Solicitud_CreditoResponse" />
+  </wsdl:message>
+  <wsdl:message name="Met_Obtiene_Deducciones_RRHHSoapIn">
+    <wsdl:part name="parameters" element="tns:Met_Obtiene_Deducciones_RRHH" />
+  </wsdl:message>
+  <wsdl:message name="Met_Obtiene_Deducciones_RRHHSoapOut">
+    <wsdl:part name="parameters" element="tns:Met_Obtiene_Deducciones_RRHHResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ServiceNubeAseconstruPlazaSoap">
+    <wsdl:operation name="Met_CreditosPorAsociado">
+      <wsdl:input message="tns:Met_CreditosPorAsociadoSoapIn" />
+      <wsdl:output message="tns:Met_CreditosPorAsociadoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Met_AhorrosPorAsociado">
+      <wsdl:input message="tns:Met_AhorrosPorAsociadoSoapIn" />
+      <wsdl:output message="tns:Met_AhorrosPorAsociadoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Met_DisponiblePorAsociado">
+      <wsdl:input message="tns:Met_DisponiblePorAsociadoSoapIn" />
+      <wsdl:output message="tns:Met_DisponiblePorAsociadoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Met_Solicitud_Credito">
+      <wsdl:input message="tns:Met_Solicitud_CreditoSoapIn" />
+      <wsdl:output message="tns:Met_Solicitud_CreditoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Met_Obtiene_Deducciones_RRHH">
+      <wsdl:input message="tns:Met_Obtiene_Deducciones_RRHHSoapIn" />
+      <wsdl:output message="tns:Met_Obtiene_Deducciones_RRHHSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ServiceNubeAseconstruPlazaSoap" type="tns:ServiceNubeAseconstruPlazaSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Met_CreditosPorAsociado">
+      <soap:operation soapAction="http://tempuri.org/Met_CreditosPorAsociado" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Met_AhorrosPorAsociado">
+      <soap:operation soapAction="http://tempuri.org/Met_AhorrosPorAsociado" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Met_DisponiblePorAsociado">
+      <soap:operation soapAction="http://tempuri.org/Met_DisponiblePorAsociado" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Met_Solicitud_Credito">
+      <soap:operation soapAction="http://tempuri.org/Met_Solicitud_Credito" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Met_Obtiene_Deducciones_RRHH">
+      <soap:operation soapAction="http://tempuri.org/Met_Obtiene_Deducciones_RRHH" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ServiceNubeAseconstruPlazaSoap12" type="tns:ServiceNubeAseconstruPlazaSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Met_CreditosPorAsociado">
+      <soap12:operation soapAction="http://tempuri.org/Met_CreditosPorAsociado" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Met_AhorrosPorAsociado">
+      <soap12:operation soapAction="http://tempuri.org/Met_AhorrosPorAsociado" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Met_DisponiblePorAsociado">
+      <soap12:operation soapAction="http://tempuri.org/Met_DisponiblePorAsociado" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Met_Solicitud_Credito">
+      <soap12:operation soapAction="http://tempuri.org/Met_Solicitud_Credito" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Met_Obtiene_Deducciones_RRHH">
+      <soap12:operation soapAction="http://tempuri.org/Met_Obtiene_Deducciones_RRHH" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ServiceNubeAseconstruPlaza">
+    <wsdl:port name="ServiceNubeAseconstruPlazaSoap" binding="tns:ServiceNubeAseconstruPlazaSoap">
+      <soap:address location="https://gestiones.quarzo.com:456/Aseconstruplaza.WS.Comunicacion/ServiceNubeAseconstruPlaza.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ServiceNubeAseconstruPlazaSoap12" binding="tns:ServiceNubeAseconstruPlazaSoap12">
+      <soap12:address location="https://gestiones.quarzo.com:456/Aseconstruplaza.WS.Comunicacion/ServiceNubeAseconstruPlaza.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

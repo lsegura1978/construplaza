@@ -1,0 +1,216 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Matching_vb
+</name>
+</assembly>
+<members>
+<member name="P:Matching_vb.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:Matching_vb.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="P:Matching_vb.My.Resources.Resources.actualizar">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Matching_vb.My.Resources.Resources.huellas">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Matching_vb.My.Resources.Resources.huellas1">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Matching_vb.My.Resources.Resources.logo">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Matching_vb.My.Resources.Resources.logo2">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Matching_vb.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="M:Matching_vb.com.quarzo.gestiones6.ServiceNubeAseconstruPlaza.#ctor">
+	<remarks/>
+</member><member name="E:Matching_vb.com.quarzo.gestiones6.ServiceNubeAseconstruPlaza.Met_CreditosPorAsociadoCompleted">
+	<remarks/>
+</member><member name="E:Matching_vb.com.quarzo.gestiones6.ServiceNubeAseconstruPlaza.Met_AhorrosPorAsociadoCompleted">
+	<remarks/>
+</member><member name="E:Matching_vb.com.quarzo.gestiones6.ServiceNubeAseconstruPlaza.Met_DisponiblePorAsociadoCompleted">
+	<remarks/>
+</member><member name="E:Matching_vb.com.quarzo.gestiones6.ServiceNubeAseconstruPlaza.Met_Solicitud_CreditoCompleted">
+	<remarks/>
+</member><member name="E:Matching_vb.com.quarzo.gestiones6.ServiceNubeAseconstruPlaza.Met_Obtiene_Deducciones_RRHHCompleted">
+	<remarks/>
+</member><member name="M:Matching_vb.com.quarzo.gestiones6.ServiceNubeAseconstruPlaza.Met_CreditosPorAsociado(Matching_vb.com.quarzo.gestiones6.BEWSCredenciales,System.String)">
+	<remarks/>
+</member><member name="M:Matching_vb.com.quarzo.gestiones6.ServiceNubeAseconstruPlaza.Met_CreditosPorAsociadoAsync(Matching_vb.com.quarzo.gestiones6.BEWSCredenciales,System.String)">
+	<remarks/>
+</member><member name="M:Matching_vb.com.quarzo.gestiones6.ServiceNubeAseconstruPlaza.Met_CreditosPorAsociadoAsync(Matching_vb.com.quarzo.gestiones6.BEWSCredenciales,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:Matching_vb.com.quarzo.gestiones6.ServiceNubeAseconstruPlaza.Met_AhorrosPorAsociado(Matching_vb.com.quarzo.gestiones6.BEWSCredenciales,System.String)">
+	<remarks/>
+</member><member name="M:Matching_vb.com.quarzo.gestiones6.ServiceNubeAseconstruPlaza.Met_AhorrosPorAsociadoAsync(Matching_vb.com.quarzo.gestiones6.BEWSCredenciales,System.String)">
+	<remarks/>
+</member><member name="M:Matching_vb.com.quarzo.gestiones6.ServiceNubeAseconstruPlaza.Met_AhorrosPorAsociadoAsync(Matching_vb.com.quarzo.gestiones6.BEWSCredenciales,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:Matching_vb.com.quarzo.gestiones6.ServiceNubeAseconstruPlaza.Met_DisponiblePorAsociado(Matching_vb.com.quarzo.gestiones6.BEWSCredenciales,System.String)">
+	<remarks/>
+</member><member name="M:Matching_vb.com.quarzo.gestiones6.ServiceNubeAseconstruPlaza.Met_DisponiblePorAsociadoAsync(Matching_vb.com.quarzo.gestiones6.BEWSCredenciales,System.String)">
+	<remarks/>
+</member><member name="M:Matching_vb.com.quarzo.gestiones6.ServiceNubeAseconstruPlaza.Met_DisponiblePorAsociadoAsync(Matching_vb.com.quarzo.gestiones6.BEWSCredenciales,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:Matching_vb.com.quarzo.gestiones6.ServiceNubeAseconstruPlaza.Met_Solicitud_Credito(Matching_vb.com.quarzo.gestiones6.BEWSCredenciales,System.String,System.Decimal,System.Int32,System.String,System.String)">
+	<remarks/>
+</member><member name="M:Matching_vb.com.quarzo.gestiones6.ServiceNubeAseconstruPlaza.Met_Solicitud_CreditoAsync(Matching_vb.com.quarzo.gestiones6.BEWSCredenciales,System.String,System.Decimal,System.Int32,System.String,System.String)">
+	<remarks/>
+</member><member name="M:Matching_vb.com.quarzo.gestiones6.ServiceNubeAseconstruPlaza.Met_Solicitud_CreditoAsync(Matching_vb.com.quarzo.gestiones6.BEWSCredenciales,System.String,System.Decimal,System.Int32,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:Matching_vb.com.quarzo.gestiones6.ServiceNubeAseconstruPlaza.Met_Obtiene_Deducciones_RRHH(Matching_vb.com.quarzo.gestiones6.BEWSCredenciales,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:Matching_vb.com.quarzo.gestiones6.ServiceNubeAseconstruPlaza.Met_Obtiene_Deducciones_RRHHAsync(Matching_vb.com.quarzo.gestiones6.BEWSCredenciales,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:Matching_vb.com.quarzo.gestiones6.ServiceNubeAseconstruPlaza.Met_Obtiene_Deducciones_RRHHAsync(Matching_vb.com.quarzo.gestiones6.BEWSCredenciales,System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:Matching_vb.com.quarzo.gestiones6.ServiceNubeAseconstruPlaza.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:Matching_vb.com.quarzo.gestiones6.ServiceNubeAseconstruPlaza">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BEWSCredenciales.IdUsuariWs">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BEWSCredenciales.PasswordWs">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BEWSCredenciales.TokenWs">
+	<remarks/>
+</member><member name="T:Matching_vb.com.quarzo.gestiones6.BEWSCredenciales">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BEDeducRRHH.cidasociad">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BEDeducRRHH.cnombreaso">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BEDeducRRHH.ccodpresup">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BEDeducRRHH.nmontomovi">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BEDeducRRHH.dfechacort">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BEDeducRRHH.cinstuasoc">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BEDeducRRHH.cnombinsti">
+	<remarks/>
+</member><member name="T:Matching_vb.com.quarzo.gestiones6.BEDeducRRHH">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BECrResulSolicCred.pResultado">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BECrResulSolicCred.MensajeExc">
+	<remarks/>
+</member><member name="T:Matching_vb.com.quarzo.gestiones6.BECrResulSolicCred">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BECODisponible.CIdAsociad">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BECODisponible.CDetalleLi">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BECODisponible.CCodigoLin">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BECODisponible.NDisponible">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BECODisponible.nDiponiPorc">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BECODisponible.nCapaciPago">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BECODisponible.nEndeduPorc">
+	<remarks/>
+</member><member name="T:Matching_vb.com.quarzo.gestiones6.BECODisponible">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BEDeDeducAso.CIdAsociad">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BEDeDeducAso.cDesDeducc">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BEDeDeducAso.nSaldoAnte">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BEDeDeducAso.nMtoCuotas">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BEDeDeducAso.nDepositos">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BEDeDeducAso.nRetiroAho">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BEDeDeducAso.nInterMovi">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BEDeDeducAso.nPorceTasa">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BEDeDeducAso.nMtoPrinci">
+	<remarks/>
+</member><member name="T:Matching_vb.com.quarzo.gestiones6.BEDeDeducAso">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BECrPrestamo.Cidasociad">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BECrPrestamo.CDetalleLi">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BECrPrestamo.CNumOperac">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BECrPrestamo.DFechaForm">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BECrPrestamo.NTasaInter">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BECrPrestamo.NNumCuotas">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BECrPrestamo.NCuotaReal">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BECrPrestamo.NAmorPrinc">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BECrPrestamo.NIntereses">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BECrPrestamo.NCuotaPres">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BECrPrestamo.NSaldoAnte">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BECrPrestamo.NAmorPrin2">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BECrPrestamo.NSaldoCred">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.BECrPrestamo.NMontoApro">
+	<remarks/>
+</member><member name="T:Matching_vb.com.quarzo.gestiones6.BECrPrestamo">
+	<remarks/>
+</member><member name="T:Matching_vb.com.quarzo.gestiones6.Met_CreditosPorAsociadoCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.Met_CreditosPorAsociadoCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Matching_vb.com.quarzo.gestiones6.Met_CreditosPorAsociadoCompletedEventArgs">
+	<remarks/>
+</member><member name="T:Matching_vb.com.quarzo.gestiones6.Met_AhorrosPorAsociadoCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.Met_AhorrosPorAsociadoCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Matching_vb.com.quarzo.gestiones6.Met_AhorrosPorAsociadoCompletedEventArgs">
+	<remarks/>
+</member><member name="T:Matching_vb.com.quarzo.gestiones6.Met_DisponiblePorAsociadoCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.Met_DisponiblePorAsociadoCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Matching_vb.com.quarzo.gestiones6.Met_DisponiblePorAsociadoCompletedEventArgs">
+	<remarks/>
+</member><member name="T:Matching_vb.com.quarzo.gestiones6.Met_Solicitud_CreditoCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.Met_Solicitud_CreditoCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Matching_vb.com.quarzo.gestiones6.Met_Solicitud_CreditoCompletedEventArgs">
+	<remarks/>
+</member><member name="T:Matching_vb.com.quarzo.gestiones6.Met_Obtiene_Deducciones_RRHHCompletedEventHandler">
+	<remarks/>
+</member><member name="P:Matching_vb.com.quarzo.gestiones6.Met_Obtiene_Deducciones_RRHHCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:Matching_vb.com.quarzo.gestiones6.Met_Obtiene_Deducciones_RRHHCompletedEventArgs">
+	<remarks/>
+</member>
+</members>
+</doc>

@@ -1,0 +1,37 @@
+﻿'Matching_vb.vshost.exe' (CLR v4.0.30319: Matching_vb.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll' cargado. Símbolos cargados.
+'Matching_vb.vshost.exe' (CLR v4.0.30319: Matching_vb.vshost.exe): 'C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities\12.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.dll' cargado. Símbolos cargados.
+'Matching_vb.vshost.exe' (CLR v4.0.30319: Matching_vb.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll' cargado. Símbolos cargados.
+'Matching_vb.vshost.exe' (CLR v4.0.30319: Matching_vb.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll' cargado. Símbolos cargados.
+'Matching_vb.vshost.exe' (CLR v4.0.30319: Matching_vb.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll' cargado. Símbolos cargados.
+'Matching_vb.vshost.exe' (CLR v4.0.30319: Matching_vb.vshost.exe): 'C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities.Sync\12.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.Sync.dll' cargado. Símbolos cargados.
+'Matching_vb.vshost.exe' (CLR v4.0.30319: Matching_vb.vshost.exe): 'C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.Debugger.Runtime\12.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Debugger.Runtime.dll' cargado. 
+'Matching_vb.vshost.exe' (CLR v4.0.30319: Matching_vb.vshost.exe): 'C:\kIOSCO 8\bin\x86\Debug\Matching_vb.vshost.exe' cargado. Símbolos cargados.
+'Matching_vb.vshost.exe' (CLR v4.0.30319: Matching_vb.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll' cargado. Símbolos cargados.
+'Matching_vb.vshost.exe' (CLR v4.0.30319: Matching_vb.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll' cargado. Símbolos cargados.
+'Matching_vb.vshost.exe' (CLR v4.0.30319: Matching_vb.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.dll' cargado. Símbolos cargados.
+'Matching_vb.vshost.exe' (CLR v4.0.30319: Matching_vb.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Serialization\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Serialization.dll' cargado. Símbolos cargados.
+'Matching_vb.vshost.exe' (CLR v4.0.30319: Matching_vb.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel\v4.0_4.0.0.0__b77a5c561934e089\System.ServiceModel.dll' cargado. Símbolos cargados.
+'Matching_vb.vshost.exe' (CLR v4.0.30319: Matching_vb.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Web.Services\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll' cargado. Símbolos cargados.
+'Matching_vb.vshost.exe' (CLR v4.0.30319: Matching_vb.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll' cargado. Símbolos cargados.
+'Matching_vb.vshost.exe' (CLR v4.0.30319: Matching_vb.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualBasic\v4.0_10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualBasic.dll' cargado. Símbolos cargados.
+El subproceso 0x21ec terminó con código 259 (0x103).
+El subproceso 0x1ff0 terminó con código 0 (0x0).
+El subproceso 0x2e84 terminó con código 259 (0x103).
+'Matching_vb.vshost.exe' (CLR v4.0.30319: Matching_vb.vshost.exe): 'C:\kIOSCO 8\bin\x86\Debug\Matching_vb.exe' cargado. Símbolos cargados.
+'Matching_vb.vshost.exe' (CLR v4.0.30319: Matching_vb.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll' cargado. Símbolos cargados.
+'Matching_vb.vshost.exe' (CLR v4.0.30319: Matching_vb.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Accessibility\v4.0_4.0.0.0__b03f5f7f11d50a3a\Accessibility.dll' cargado. Símbolos cargados.
+Ir a: saltar la propiedad 'Matching_vb.My.MyProject.get_Forms'. Para ir a propiedades, vaya a Herramientas->Opciones->Depuración y desactive la opción 'Saltar propiedades y operadores (sólo administrado)'.
+Ir a: saltar la propiedad 'Matching_vb.My.MyProject.MyForms.get_Formmenu'. Para ir a propiedades, vaya a Herramientas->Opciones->Depuración y desactive la opción 'Saltar propiedades y operadores (sólo administrado)'.
+'Matching_vb.vshost.exe' (CLR v4.0.30319: Matching_vb.vshost.exe): 'C:\kIOSCO 8\bin\x86\Debug\SecuGen.FDxSDKPro.Windows.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+ERR: Can't open the key(2).
+'Matching_vb.vshost.exe' (CLR v4.0.30319: Matching_vb.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Data.resources\v4.0_4.0.0.0_es_b77a5c561934e089\System.Data.resources.dll' cargado. El módulo se compiló sin símbolos.
+'Matching_vb.vshost.exe' (CLR v4.0.30319: Matching_vb.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Transactions\v4.0_4.0.0.0__b77a5c561934e089\System.Transactions.dll' cargado. Símbolos cargados.
+'Matching_vb.vshost.exe' (CLR v4.0.30319: Matching_vb.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.Wrapper.dll' cargado. Símbolos cargados.
+'Matching_vb.vshost.exe' (CLR v4.0.30319: Matching_vb.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Caching\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.Caching.dll' cargado. Símbolos cargados.
+'Matching_vb.vshost.exe' (CLR v4.0.30319: Matching_vb.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Numerics\v4.0_4.0.0.0__b77a5c561934e089\System.Numerics.dll' cargado. Símbolos cargados.
+'Matching_vb.vshost.exe' (CLR v4.0.30319: Matching_vb.vshost.exe): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_es_b77a5c561934e089\mscorlib.resources.dll' cargado. El módulo se compiló sin símbolos.
+El subproceso 0x2b34 terminó con código 259 (0x103).
+El subproceso 0x3180 terminó con código 259 (0x103).
+ERR: Can't get dword value of "LiveFingerLogEnable" (6)
+ERR: Can't get dword value of "LiveFingerLevel" (6)
+El programa '[13156] Matching_vb.vshost.exe' terminó con código 0 (0x0).

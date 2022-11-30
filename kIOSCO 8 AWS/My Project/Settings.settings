@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Matching_vb_com_quarzo_gestiones1_ServiceNubeAseconstruPlaza" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://gestiones.quarzo.com/Aseconstruplaza.WS.Comunicacion/ServiceNubeAseconstruPlaza.asmx</Value>
+    </Setting>
+    <Setting Name="Matching_vb_com_quarzo_gestiones6_ServiceNubeAseconstruPlaza" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://gestiones.quarzo.com/Aseconstruplaza.WS.Comunicacion/ServiceNubeAseconstruPlaza.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

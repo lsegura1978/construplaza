@@ -1,0 +1,472 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D459617B-C068-4A1A-9655-D007DBE9FD1A}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>Matching_vb</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyMode>None</AssemblyOriginatorKeyMode>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>WinExe</OutputType>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionStrict>Off</OptionStrict>
+    <RootNamespace>Matching_vb</RootNamespace>
+    <StartupObject>Matching_vb.Formmenu</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>Matching_vb.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>Matching_vb.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>false</DebugSymbols>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>none</DebugType>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <BaseAddress>285212672</BaseAddress>
+    <DocumentationFile>Matching_vb.xml</DocumentationFile>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <BaseAddress>285212672</BaseAddress>
+    <DocumentationFile>Matching_vb.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp">
+      <HintPath>.\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="SecuGen.FDxSDKPro.Windows, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Bin\i386\SecuGen.FDxSDKPro.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Formmenu.Designer.vb">
+      <DependentUpon>Formmenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formmenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmactualizaempleado.Designer.vb">
+      <DependentUpon>Frmactualizaempleado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frmactualizaempleado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmaguinaldo.Designer.vb">
+      <DependentUpon>Frmaguinaldo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frmaguinaldo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmcalendario.Designer.vb">
+      <DependentUpon>frmcalendario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmcalendario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmcomprobantepago.Designer.vb">
+      <DependentUpon>frmcomprobantepago.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmcomprobantepago.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmconstancia.Designer.vb">
+      <DependentUpon>Frmconstancia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frmconstancia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmcreditos.Designer.vb">
+      <DependentUpon>frmcreditos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmcreditos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmcreditosQuarzo.Designer.vb">
+      <DependentUpon>FrmcreditosQuarzo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmcreditosQuarzo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmcu.Designer.vb">
+      <DependentUpon>frmcu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmcu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmestadocuentaaseconstruplaza.Designer.vb">
+      <DependentUpon>Frmestadocuentaaseconstruplaza.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frmestadocuentaaseconstruplaza.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmestadoquarzo.Designer.vb">
+      <DependentUpon>Frmestadoquarzo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frmestadoquarzo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmjustificadas.Designer.vb">
+      <DependentUpon>frmjustificadas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmjustificadas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmmarca.Designer.vb">
+      <DependentUpon>Frmmarca.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frmmarca.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmmarcas.Designer.vb">
+      <DependentUpon>frmmarcas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmmarcas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmmarcasg.Designer.vb">
+      <DependentUpon>Frmmarcasg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frmmarcasg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmmarcas_huella.Designer.vb">
+      <DependentUpon>frmmarcas_huella.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmmarcas_huella.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmmarca_clave.Designer.vb">
+      <DependentUpon>frmmarca_clave.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmmarca_clave.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmmensaje.Designer.vb">
+      <DependentUpon>frmmensaje.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmmensaje.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmtecladovb.Designer.vb">
+      <DependentUpon>Frmtecladovb.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frmtecladovb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmvacaciones.Designer.vb">
+      <DependentUpon>Frmvacaciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frmvacaciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmvalidarsupervisor.Designer.vb">
+      <DependentUpon>frmvalidarsupervisor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmvalidarsupervisor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmvistacomprobante.Designer.vb">
+      <DependentUpon>Frmvistacomprobante.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frmvistacomprobante.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\Quarzo\Reference.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\com.quarzo.gestiones6\Reference.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Formmenu.resx">
+      <DependentUpon>Formmenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmactualizaempleado.resx">
+      <DependentUpon>Frmactualizaempleado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmaguinaldo.resx">
+      <DependentUpon>Frmaguinaldo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmcalendario.resx">
+      <DependentUpon>frmcalendario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmcomprobantepago.resx">
+      <DependentUpon>frmcomprobantepago.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmcreditos.resx">
+      <DependentUpon>frmcreditos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmcreditosQuarzo.resx">
+      <DependentUpon>FrmcreditosQuarzo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmcu.resx">
+      <DependentUpon>frmcu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmestadocuentaaseconstruplaza.resx">
+      <DependentUpon>Frmestadocuentaaseconstruplaza.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmestadoquarzo.resx">
+      <DependentUpon>Frmestadoquarzo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmjustificadas.resx">
+      <DependentUpon>frmjustificadas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmmarca.resx">
+      <DependentUpon>Frmmarca.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmmarcas.resx">
+      <DependentUpon>frmmarcas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmmarcasg.resx">
+      <DependentUpon>Frmmarcasg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmmarcas_huella.resx">
+      <DependentUpon>frmmarcas_huella.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmmarca_clave.resx">
+      <DependentUpon>frmmarca_clave.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmmensaje.resx">
+      <DependentUpon>frmmensaje.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmtecladovb.resx">
+      <DependentUpon>Frmtecladovb.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmvacaciones.resx">
+      <DependentUpon>Frmvacaciones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmvalidarsupervisor.resx">
+      <DependentUpon>frmvalidarsupervisor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmvistacomprobante.resx">
+      <DependentUpon>Frmvistacomprobante.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainform.resx">
+      <DependentUpon>mainform.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Resources\logo.png" />
+    <None Include="Service References\Quarzo\Matching_vb.Quarzo.BECODisponible.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Quarzo\Matching_vb.Quarzo.BECrPrestamo.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Quarzo\Matching_vb.Quarzo.BECrResulSolicCred.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Quarzo\Matching_vb.Quarzo.BEDeDeducAso.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Quarzo\Matching_vb.Quarzo.BEDeducRRHH.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\Quarzo\ServiceNubeAseconstruPlaza.wsdl" />
+    <None Include="Web References\com.quarzo.gestiones6\BECODisponible.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\com.quarzo.gestiones6\BECrPrestamo.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\com.quarzo.gestiones6\BECrResulSolicCred.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\com.quarzo.gestiones6\BEDeDeducAso.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\com.quarzo.gestiones6\BEDeducRRHH.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\com.quarzo.gestiones6\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.vb</LastGenOutput>
+    </None>
+    <None Include="Web References\com.quarzo.gestiones6\ServiceNubeAseconstruPlaza.wsdl" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="huellas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\Quarzo\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\Quarzo\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\Quarzo\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\Quarzo\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="https://gestiones.quarzo.com/Aseconstruplaza.WS.Comunicacion/ServiceNubeAseconstruPlaza.asmx%3fwsdl">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\com.quarzo.gestiones6\</RelPath>
+      <UpdateFromURL>https://gestiones.quarzo.com/Aseconstruplaza.WS.Comunicacion/ServiceNubeAseconstruPlaza.asmx%3fwsdl</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>MySettings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>Matching_vb_com_quarzo_gestiones6_ServiceNubeAseconstruPlaza</CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="actualizar.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="logo2.JPG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

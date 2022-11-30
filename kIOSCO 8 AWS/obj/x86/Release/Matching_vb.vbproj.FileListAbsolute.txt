@@ -1,0 +1,456 @@
+D:\work\Project\FDxSDKPro\DotNET\Samples\VB.NET\Matching\bin\x86\Release\Matching_vb.exe.config
+D:\work\Project\FDxSDKPro\DotNET\Samples\VB.NET\Matching\bin\x86\Release\Matching_vb.exe
+D:\work\Project\FDxSDKPro\DotNET\Samples\VB.NET\Matching\bin\x86\Release\Matching_vb.xml
+D:\work\Project\FDxSDKPro\DotNET\Samples\VB.NET\Matching\bin\x86\Release\SecuGen.FDxSDKPro.Windows.dll
+D:\work\Project\FDxSDKPro\DotNET\Samples\VB.NET\Matching\obj\x86\Release\Matching_vb.Form1.resources
+D:\work\Project\FDxSDKPro\DotNET\Samples\VB.NET\Matching\obj\x86\Release\Matching_vb.vbproj.GenerateResource.Cache
+D:\work\Project\FDxSDKPro\DotNET\Samples\VB.NET\Matching\obj\x86\Release\Matching_vb.exe
+D:\work\Project\FDxSDKPro\DotNET\Samples\VB.NET\Matching\obj\x86\Release\Matching_vb.xml
+D:\workspace\FDx SDK Pro for Windows Releases\FDx SDK Pro for Windows 3.8\DotNET\Samples\VB.NET\Matching\bin\x86\Release\Matching_vb.exe.config
+D:\workspace\FDx SDK Pro for Windows Releases\FDx SDK Pro for Windows 3.8\DotNET\Samples\VB.NET\Matching\obj\x86\Release\Matching_vb.exe
+D:\workspace\FDx SDK Pro for Windows Releases\FDx SDK Pro for Windows 3.8\DotNET\Samples\VB.NET\Matching\obj\x86\Release\Matching_vb.xml
+D:\workspace\FDx SDK Pro for Windows Releases\FDx SDK Pro for Windows 3.8\DotNET\Samples\VB.NET\Matching\bin\x86\Release\Matching_vb.exe
+D:\workspace\FDx SDK Pro for Windows Releases\FDx SDK Pro for Windows 3.8\DotNET\Samples\VB.NET\Matching\bin\x86\Release\Matching_vb.xml
+D:\workspace\FDx SDK Pro for Windows Releases\FDx SDK Pro for Windows 3.8\DotNET\Samples\VB.NET\Matching\bin\x86\Release\SecuGen.FDxSDKPro.Windows.dll
+D:\workspace\FDx SDK Pro for Windows Releases\FDx SDK Pro for Windows 3.8\DotNET\Samples\VB.NET\Matching\obj\x86\Release\Matching_vb.Form1.resources
+D:\workspace\FDx SDK Pro for Windows Releases\FDx SDK Pro for Windows 3.8\DotNET\Samples\VB.NET\Matching\obj\x86\Release\Matching_vb.vbproj.GenerateResource.Cache
+C:\Users\lsegura\Desktop\FDx SDK Pro for Windows v3.81_J18\FDx SDK Pro for Windows v3.81_J18\FDx SDK Pro for Windows 3.81\DotNET\Samples\VB.NET\Matching\bin\x86\Release\Matching_vb.exe.config
+C:\Users\lsegura\Desktop\FDx SDK Pro for Windows v3.81_J18\FDx SDK Pro for Windows v3.81_J18\FDx SDK Pro for Windows 3.81\DotNET\Samples\VB.NET\Matching\obj\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\FDx SDK Pro for Windows v3.81_J18\FDx SDK Pro for Windows v3.81_J18\FDx SDK Pro for Windows 3.81\DotNET\Samples\VB.NET\Matching\obj\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\FDx SDK Pro for Windows v3.81_J18\FDx SDK Pro for Windows v3.81_J18\FDx SDK Pro for Windows 3.81\DotNET\Samples\VB.NET\Matching\bin\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\FDx SDK Pro for Windows v3.81_J18\FDx SDK Pro for Windows v3.81_J18\FDx SDK Pro for Windows 3.81\DotNET\Samples\VB.NET\Matching\bin\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\FDx SDK Pro for Windows v3.81_J18\FDx SDK Pro for Windows v3.81_J18\FDx SDK Pro for Windows 3.81\DotNET\Samples\VB.NET\Matching\bin\x86\Release\SecuGen.FDxSDKPro.Windows.dll
+C:\Users\lsegura\Desktop\FDx SDK Pro for Windows v3.81_J18\FDx SDK Pro for Windows v3.81_J18\FDx SDK Pro for Windows 3.81\DotNET\Samples\VB.NET\Matching\obj\x86\Release\Matching_vb.vbprojResolveAssemblyReference.cache
+C:\Users\lsegura\Desktop\FDx SDK Pro for Windows v3.81_J18\FDx SDK Pro for Windows v3.81_J18\FDx SDK Pro for Windows 3.81\DotNET\Samples\VB.NET\Matching\obj\x86\Release\Matching_vb.Form1.resources
+C:\Users\lsegura\Desktop\FDx SDK Pro for Windows v3.81_J18\FDx SDK Pro for Windows v3.81_J18\FDx SDK Pro for Windows 3.81\DotNET\Samples\VB.NET\Matching\obj\x86\Release\Matching_vb.vbproj.GenerateResource.Cache
+G:\Mi unidad\2018\Kiosco\Kiosco 1\kIOSCO 1\bin\x86\Release\Matching_vb.exe.config
+G:\Mi unidad\2018\Kiosco\Kiosco 1\kIOSCO 1\obj\x86\Release\Matching_vb.exe
+G:\Mi unidad\2018\Kiosco\Kiosco 1\kIOSCO 1\obj\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\Respaldo de Google\2018\Kiosco\Kiosco 1\kIOSCO 1\bin\x86\Release\Matching_vb.exe.config
+C:\Users\lsegura\Desktop\Respaldo de Google\2018\Kiosco\Kiosco 1\kIOSCO 1\obj\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\Respaldo de Google\2018\Kiosco\Kiosco 1\kIOSCO 1\obj\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\Respaldo de Google\2018\Kiosco\Kiosco 1\kIOSCO 1\bin\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\Respaldo de Google\2018\Kiosco\Kiosco 1\kIOSCO 1\bin\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\Respaldo de Google\2018\Kiosco\Kiosco 1\kIOSCO 1\obj\x86\Release\Matching_vb.vbprojResolveAssemblyReference.cache
+C:\Users\lsegura\Desktop\Respaldo de Google\2018\Kiosco\Kiosco 1\kIOSCO 1\obj\x86\Release\Matching_vb.Form1.resources
+C:\Users\lsegura\Desktop\Respaldo de Google\2018\Kiosco\Kiosco 1\kIOSCO 1\obj\x86\Release\Matching_vb.vbproj.GenerateResource.Cache
+C:\Users\lsegura\Desktop\Respaldo de Google\2018\Kiosco\Kiosco 1\kIOSCO 1\obj\x86\Release\Matching_vb.FRMIngreso.resources
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 1\kIOSCO 1\bin\x86\Release\Matching_vb.exe.config
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 1\kIOSCO 1\obj\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 1\kIOSCO 1\obj\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 1\kIOSCO 1\bin\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 1\kIOSCO 1\bin\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 1\kIOSCO 1\obj\x86\Release\Matching_vb.vbprojResolveAssemblyReference.cache
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 1\kIOSCO 1\obj\x86\Release\Matching_vb.FRMIngreso.resources
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 1\kIOSCO 1\obj\x86\Release\Matching_vb.Form1.resources
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 1\kIOSCO 1\obj\x86\Release\Matching_vb.vbproj.GenerateResource.Cache
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 2\kIOSCO 2\bin\x86\Release\Matching_vb.exe.config
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 2\kIOSCO 2\obj\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 2\kIOSCO 2\obj\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 2\kIOSCO 2\obj\x86\Release\Matching_vb.vbprojResolveAssemblyReference.cache
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 2\kIOSCO 2\obj\x86\Release\Matching_vb.FRMIngreso.resources
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 2\kIOSCO 2\obj\x86\Release\Matching_vb.Form1.resources
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 2\kIOSCO 2\obj\x86\Release\Matching_vb.vbproj.GenerateResource.Cache
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 2\kIOSCO 2\bin\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 2\kIOSCO 2\bin\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 3\kIOSCO 3\bin\x86\Release\Matching_vb.exe.config
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 3\kIOSCO 3\obj\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 3\kIOSCO 3\obj\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 3\kIOSCO 3\bin\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 3\kIOSCO 3\bin\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 3\kIOSCO 3\obj\x86\Release\Matching_vb.vbprojResolveAssemblyReference.cache
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 3\kIOSCO 3\obj\x86\Release\Matching_vb.Form1.resources
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 3\kIOSCO 3\obj\x86\Release\Matching_vb.vbproj.GenerateResource.Cache
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 4\kIOSCO 4\bin\x86\Release\Matching_vb.exe.config
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 4\kIOSCO 4\bin\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 4\kIOSCO 4\bin\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 4\kIOSCO 4\obj\x86\Release\Matching_vb.Frmmarca.resources
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 4\kIOSCO 4\obj\x86\Release\Matching_vb.Form1.resources
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 4\kIOSCO 4\obj\x86\Release\Matching_vb.vbproj.GenerateResource.Cache
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 4\kIOSCO 4\obj\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 4\kIOSCO 4\obj\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 5\kIOSCO 5\bin\x86\Release\Matching_vb.exe.config
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 5\kIOSCO 5\obj\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 5\kIOSCO 5\obj\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 5\kIOSCO 5\bin\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 5\kIOSCO 5\bin\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 5\kIOSCO 5\obj\x86\Release\Matching_vb.vbprojResolveAssemblyReference.cache
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 5\kIOSCO 5\obj\x86\Release\Matching_vb.Frmmarca.resources
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 5\kIOSCO 5\obj\x86\Release\Matching_vb.Form1.resources
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 5\kIOSCO 5\obj\x86\Release\Matching_vb.vbproj.GenerateResource.Cache
+C:\Users\lsegura\Desktop\kioscos\Kiosco 5\kIOSCO 5\bin\x86\Release\Matching_vb.exe.config
+C:\Users\lsegura\Desktop\kioscos\Kiosco 5\kIOSCO 5\obj\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\kioscos\Kiosco 5\kIOSCO 5\obj\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\kioscos\Kiosco 5\kIOSCO 5\bin\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\kioscos\Kiosco 5\kIOSCO 5\bin\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\kioscos\Kiosco 5\kIOSCO 5\obj\x86\Release\Matching_vb.Frmmarca.resources
+C:\Users\lsegura\Desktop\kioscos\Kiosco 5\kIOSCO 5\obj\x86\Release\Matching_vb.Form1.resources
+C:\Users\lsegura\Desktop\kioscos\Kiosco 5\kIOSCO 5\obj\x86\Release\Matching_vb.vbproj.GenerateResource.Cache
+C:\Users\lsegura\Desktop\kioscos\Kiosco 5\kIOSCO 5\obj\x86\Release\Matching_vb.Formmenu.resources
+C:\Users\lsegura\Desktop\Kiosco 6\kIOSCO 6\bin\x86\Release\Matching_vb.exe.config
+C:\Users\lsegura\Desktop\Kiosco 6\kIOSCO 6\obj\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\Kiosco 6\kIOSCO 6\obj\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\Kiosco 6\kIOSCO 6\bin\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\Kiosco 6\kIOSCO 6\bin\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\Kiosco 6\kIOSCO 6\obj\x86\Release\Matching_vb.Formmenu.resources
+C:\Users\lsegura\Desktop\Kiosco 6\kIOSCO 6\obj\x86\Release\Matching_vb.Frmmarca.resources
+C:\Users\lsegura\Desktop\Kiosco 6\kIOSCO 6\obj\x86\Release\Matching_vb.Form1.resources
+C:\Users\lsegura\Desktop\Kiosco 6\kIOSCO 6\obj\x86\Release\Matching_vb.vbproj.GenerateResource.Cache
+C:\Users\lsegura\Desktop\Kiosco 6\kIOSCO 6\obj\x86\Release\Matching_vb.frmmarcas_huella.resources
+C:\Users\lsegura\Desktop\Kiosco 6\kIOSCO 6\obj\x86\Release\Matching_vb.frmvalidarsupervisor.resources
+C:\kIOSCO 6\bin\x86\Release\Matching_vb.exe.config
+C:\kIOSCO 6\obj\x86\Release\Matching_vb.exe
+C:\kIOSCO 6\obj\x86\Release\Matching_vb.xml
+C:\kIOSCO 6\bin\x86\Release\Matching_vb.exe
+C:\kIOSCO 6\bin\x86\Release\Matching_vb.xml
+C:\kIOSCO 6\obj\x86\Release\Matching_vb.Formmenu.resources
+C:\kIOSCO 6\obj\x86\Release\Matching_vb.Frmmarca.resources
+C:\kIOSCO 6\obj\x86\Release\Matching_vb.frmmarcas_huella.resources
+C:\kIOSCO 6\obj\x86\Release\Matching_vb.frmvalidarsupervisor.resources
+C:\kIOSCO 6\obj\x86\Release\Matching_vb.Form1.resources
+C:\kIOSCO 6\obj\x86\Release\Matching_vb.vbproj.GenerateResource.Cache
+C:\Users\lsegura\Desktop\kIOSCO 6\bin\x86\Release\Matching_vb.exe.config
+C:\Users\lsegura\Desktop\kIOSCO 6\obj\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\kIOSCO 6\obj\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\kIOSCO 6\bin\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\kIOSCO 6\bin\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\kIOSCO 6\obj\x86\Release\Matching_vb.Formmenu.resources
+C:\Users\lsegura\Desktop\kIOSCO 6\obj\x86\Release\Matching_vb.Frmmarca.resources
+C:\Users\lsegura\Desktop\kIOSCO 6\obj\x86\Release\Matching_vb.frmmarcas_huella.resources
+C:\Users\lsegura\Desktop\kIOSCO 6\obj\x86\Release\Matching_vb.frmvalidarsupervisor.resources
+C:\Users\lsegura\Desktop\kIOSCO 6\obj\x86\Release\Matching_vb.Form1.resources
+C:\Users\lsegura\Desktop\kIOSCO 6\obj\x86\Release\Matching_vb.vbproj.GenerateResource.Cache
+C:\Users\lsegura\Desktop\kIOSCO 6\obj\x86\Release\Matching_vb.Resources.resources
+C:\Users\lsegura\Desktop\kIOSCO 6 COMPROBANTE\bin\x86\Release\Matching_vb.exe.config
+C:\Users\lsegura\Desktop\kIOSCO 6 COMPROBANTE\obj\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\kIOSCO 6 COMPROBANTE\obj\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\kIOSCO 6 COMPROBANTE\bin\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\kIOSCO 6 COMPROBANTE\bin\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\kIOSCO 6 COMPROBANTE\obj\x86\Release\Matching_vb.Formmenu.resources
+C:\Users\lsegura\Desktop\kIOSCO 6 COMPROBANTE\obj\x86\Release\Matching_vb.Frmmarca.resources
+C:\Users\lsegura\Desktop\kIOSCO 6 COMPROBANTE\obj\x86\Release\Matching_vb.frmmarcas_huella.resources
+C:\Users\lsegura\Desktop\kIOSCO 6 COMPROBANTE\obj\x86\Release\Matching_vb.frmvalidarsupervisor.resources
+C:\Users\lsegura\Desktop\kIOSCO 6 COMPROBANTE\obj\x86\Release\Matching_vb.Form1.resources
+C:\Users\lsegura\Desktop\kIOSCO 6 COMPROBANTE\obj\x86\Release\Matching_vb.Resources.resources
+C:\Users\lsegura\Desktop\kIOSCO 6 COMPROBANTE\obj\x86\Release\Matching_vb.vbproj.GenerateResource.Cache
+C:\Users\lsegura\Desktop\kIOSCO 6 COMPROBANTE\obj\x86\Release\Matching_vb.frmcomprobantepago.resources
+C:\Users\lsegura\Desktop\kIOSCO 6 COMPROBANTE\bin\x86\Release\itextsharp.dll
+C:\Users\lsegura\Desktop\kIOSCO 7\bin\x86\Release\Matching_vb.exe.config
+C:\Users\lsegura\Desktop\kIOSCO 7\obj\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\kIOSCO 7\obj\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\kIOSCO 7\bin\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\kIOSCO 7\bin\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\kIOSCO 7\bin\x86\Release\itextsharp.dll
+C:\Users\lsegura\Desktop\kIOSCO 7\obj\x86\Release\Matching_vb.Formmenu.resources
+C:\Users\lsegura\Desktop\kIOSCO 7\obj\x86\Release\Matching_vb.frmcomprobantepago.resources
+C:\Users\lsegura\Desktop\kIOSCO 7\obj\x86\Release\Matching_vb.Frmmarca.resources
+C:\Users\lsegura\Desktop\kIOSCO 7\obj\x86\Release\Matching_vb.frmmarcas_huella.resources
+C:\Users\lsegura\Desktop\kIOSCO 7\obj\x86\Release\Matching_vb.frmvalidarsupervisor.resources
+C:\Users\lsegura\Desktop\kIOSCO 7\obj\x86\Release\Matching_vb.Form1.resources
+C:\Users\lsegura\Desktop\kIOSCO 7\obj\x86\Release\Matching_vb.Resources.resources
+C:\Users\lsegura\Desktop\kIOSCO 7\obj\x86\Release\Matching_vb.vbproj.GenerateResource.Cache
+C:\Users\lsegura\Desktop\kIOSCO 7\obj\x86\Release\Matching_vb.Frmvacaciones.resources
+C:\Users\lsegura\Desktop\kIOSCO 8 4.4\bin\x86\Release\Matching_vb.exe.config
+C:\Users\lsegura\Desktop\kIOSCO 8 4.4\bin\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\kIOSCO 8 4.4\bin\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\kIOSCO 8 4.4\bin\x86\Release\itextsharp.dll
+C:\Users\lsegura\Desktop\kIOSCO 8 4.4\obj\x86\Release\Matching_vb.Formmenu.resources
+C:\Users\lsegura\Desktop\kIOSCO 8 4.4\obj\x86\Release\Matching_vb.frmcomprobantepago.resources
+C:\Users\lsegura\Desktop\kIOSCO 8 4.4\obj\x86\Release\Matching_vb.btn10000.resources
+C:\Users\lsegura\Desktop\kIOSCO 8 4.4\obj\x86\Release\Matching_vb.Frmestadocuentaaseconstruplaza.resources
+C:\Users\lsegura\Desktop\kIOSCO 8 4.4\obj\x86\Release\Matching_vb.Frmmarca.resources
+C:\Users\lsegura\Desktop\kIOSCO 8 4.4\obj\x86\Release\Matching_vb.frmmarcas.resources
+C:\Users\lsegura\Desktop\kIOSCO 8 4.4\obj\x86\Release\Matching_vb.Frmmarcasg.resources
+C:\Users\lsegura\Desktop\kIOSCO 8 4.4\obj\x86\Release\Matching_vb.frmmarcas_huella.resources
+C:\Users\lsegura\Desktop\kIOSCO 8 4.4\obj\x86\Release\Matching_vb.Frmvacaciones.resources
+C:\Users\lsegura\Desktop\kIOSCO 8 4.4\obj\x86\Release\Matching_vb.frmvalidarsupervisor.resources
+C:\Users\lsegura\Desktop\kIOSCO 8 4.4\obj\x86\Release\Matching_vb.Form1.resources
+C:\Users\lsegura\Desktop\kIOSCO 8 4.4\obj\x86\Release\Matching_vb.Resources.resources
+C:\Users\lsegura\Desktop\kIOSCO 8 4.4\obj\x86\Release\Matching_vb.vbproj.GenerateResource.Cache
+C:\Users\lsegura\Desktop\kIOSCO 8 4.4\obj\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\kIOSCO 8 4.4\obj\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\varios\kIOSCO 8 4.4\bin\x86\Release\Matching_vb.exe.config
+C:\Users\lsegura\Desktop\varios\kIOSCO 8 4.4\bin\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\varios\kIOSCO 8 4.4\bin\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\varios\kIOSCO 8 4.4\bin\x86\Release\itextsharp.dll
+C:\Users\lsegura\Desktop\varios\kIOSCO 8 4.4\obj\x86\Release\Matching_vb.Formmenu.resources
+C:\Users\lsegura\Desktop\varios\kIOSCO 8 4.4\obj\x86\Release\Matching_vb.frmcomprobantepago.resources
+C:\Users\lsegura\Desktop\varios\kIOSCO 8 4.4\obj\x86\Release\Matching_vb.btn10000.resources
+C:\Users\lsegura\Desktop\varios\kIOSCO 8 4.4\obj\x86\Release\Matching_vb.Frmestadocuentaaseconstruplaza.resources
+C:\Users\lsegura\Desktop\varios\kIOSCO 8 4.4\obj\x86\Release\Matching_vb.Frmmarca.resources
+C:\Users\lsegura\Desktop\varios\kIOSCO 8 4.4\obj\x86\Release\Matching_vb.frmmarcas.resources
+C:\Users\lsegura\Desktop\varios\kIOSCO 8 4.4\obj\x86\Release\Matching_vb.Frmmarcasg.resources
+C:\Users\lsegura\Desktop\varios\kIOSCO 8 4.4\obj\x86\Release\Matching_vb.frmmarcas_huella.resources
+C:\Users\lsegura\Desktop\varios\kIOSCO 8 4.4\obj\x86\Release\Matching_vb.Frmvacaciones.resources
+C:\Users\lsegura\Desktop\varios\kIOSCO 8 4.4\obj\x86\Release\Matching_vb.frmvalidarsupervisor.resources
+C:\Users\lsegura\Desktop\varios\kIOSCO 8 4.4\obj\x86\Release\Matching_vb.Form1.resources
+C:\Users\lsegura\Desktop\varios\kIOSCO 8 4.4\obj\x86\Release\Matching_vb.Resources.resources
+C:\Users\lsegura\Desktop\varios\kIOSCO 8 4.4\obj\x86\Release\Matching_vb.vbproj.GenerateResource.Cache
+C:\Users\lsegura\Desktop\varios\kIOSCO 8 4.4\obj\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\varios\kIOSCO 8 4.4\obj\x86\Release\Matching_vb.xml
+G:\Mi unidad\Construplaza\2020\ESCRITORIO\kIOSCO 8\bin\x86\Release\Matching_vb.exe.config
+G:\Mi unidad\Construplaza\2020\ESCRITORIO\kIOSCO 8\bin\x86\Release\Matching_vb.exe
+G:\Mi unidad\Construplaza\2020\ESCRITORIO\kIOSCO 8\bin\x86\Release\Matching_vb.xml
+G:\Mi unidad\Construplaza\2020\ESCRITORIO\kIOSCO 8\bin\x86\Release\itextsharp.dll
+G:\Mi unidad\Construplaza\2020\ESCRITORIO\kIOSCO 8\obj\x86\Release\Matching_vb.vbprojResolveAssemblyReference.cache
+G:\Mi unidad\Construplaza\2020\ESCRITORIO\kIOSCO 8\obj\x86\Release\Matching_vb.Formmenu.resources
+G:\Mi unidad\Construplaza\2020\ESCRITORIO\kIOSCO 8\obj\x86\Release\Matching_vb.frmcalendario.resources
+G:\Mi unidad\Construplaza\2020\ESCRITORIO\kIOSCO 8\obj\x86\Release\Matching_vb.frmcomprobantepago.resources
+G:\Mi unidad\Construplaza\2020\ESCRITORIO\kIOSCO 8\obj\x86\Release\Matching_vb.btn10000.resources
+G:\Mi unidad\Construplaza\2020\ESCRITORIO\kIOSCO 8\obj\x86\Release\Matching_vb.frmcircular.resources
+G:\Mi unidad\Construplaza\2020\ESCRITORIO\kIOSCO 8\obj\x86\Release\Matching_vb.Frmestadocuentaaseconstruplaza.resources
+G:\Mi unidad\Construplaza\2020\ESCRITORIO\kIOSCO 8\obj\x86\Release\Matching_vb.frmjustificadas.resources
+G:\Mi unidad\Construplaza\2020\ESCRITORIO\kIOSCO 8\obj\x86\Release\Matching_vb.Frmmarca.resources
+G:\Mi unidad\Construplaza\2020\ESCRITORIO\kIOSCO 8\obj\x86\Release\Matching_vb.frmmarcas.resources
+G:\Mi unidad\Construplaza\2020\ESCRITORIO\kIOSCO 8\obj\x86\Release\Matching_vb.Frmmarcasg.resources
+G:\Mi unidad\Construplaza\2020\ESCRITORIO\kIOSCO 8\obj\x86\Release\Matching_vb.frmmarcas_huella.resources
+G:\Mi unidad\Construplaza\2020\ESCRITORIO\kIOSCO 8\obj\x86\Release\Matching_vb.frmmensaje.resources
+G:\Mi unidad\Construplaza\2020\ESCRITORIO\kIOSCO 8\obj\x86\Release\Matching_vb.Frmvacaciones.resources
+G:\Mi unidad\Construplaza\2020\ESCRITORIO\kIOSCO 8\obj\x86\Release\Matching_vb.frmvalidarsupervisor.resources
+G:\Mi unidad\Construplaza\2020\ESCRITORIO\kIOSCO 8\obj\x86\Release\Matching_vb.Frmvistacomprobante.resources
+G:\Mi unidad\Construplaza\2020\ESCRITORIO\kIOSCO 8\obj\x86\Release\Matching_vb.Form1.resources
+G:\Mi unidad\Construplaza\2020\ESCRITORIO\kIOSCO 8\obj\x86\Release\Matching_vb.Resources.resources
+G:\Mi unidad\Construplaza\2020\ESCRITORIO\kIOSCO 8\obj\x86\Release\Matching_vb.vbproj.GenerateResource.Cache
+G:\Mi unidad\Construplaza\2020\ESCRITORIO\kIOSCO 8\obj\x86\Release\Matching_vb.exe
+G:\Mi unidad\Construplaza\2020\ESCRITORIO\kIOSCO 8\obj\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\Kiosco de la nube\kIOSCO 8\bin\x86\Release\Matching_vb.exe.config
+C:\Users\lsegura\Desktop\Kiosco de la nube\kIOSCO 8\obj\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\Kiosco de la nube\kIOSCO 8\obj\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\Kiosco de la nube\kIOSCO 8\bin\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\Kiosco de la nube\kIOSCO 8\bin\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\Kiosco de la nube\kIOSCO 8\bin\x86\Release\itextsharp.dll
+C:\Users\lsegura\Desktop\Kiosco de la nube\kIOSCO 8\obj\x86\Release\Matching_vb.Formmenu.resources
+C:\Users\lsegura\Desktop\Kiosco de la nube\kIOSCO 8\obj\x86\Release\Matching_vb.frmcalendario.resources
+C:\Users\lsegura\Desktop\Kiosco de la nube\kIOSCO 8\obj\x86\Release\Matching_vb.frmcomprobantepago.resources
+C:\Users\lsegura\Desktop\Kiosco de la nube\kIOSCO 8\obj\x86\Release\Matching_vb.btn10000.resources
+C:\Users\lsegura\Desktop\Kiosco de la nube\kIOSCO 8\obj\x86\Release\Matching_vb.frmcircular.resources
+C:\Users\lsegura\Desktop\Kiosco de la nube\kIOSCO 8\obj\x86\Release\Matching_vb.Frmestadocuentaaseconstruplaza.resources
+C:\Users\lsegura\Desktop\Kiosco de la nube\kIOSCO 8\obj\x86\Release\Matching_vb.frmjustificadas.resources
+C:\Users\lsegura\Desktop\Kiosco de la nube\kIOSCO 8\obj\x86\Release\Matching_vb.Frmmarca.resources
+C:\Users\lsegura\Desktop\Kiosco de la nube\kIOSCO 8\obj\x86\Release\Matching_vb.frmmarcas.resources
+C:\Users\lsegura\Desktop\Kiosco de la nube\kIOSCO 8\obj\x86\Release\Matching_vb.Frmmarcasg.resources
+C:\Users\lsegura\Desktop\Kiosco de la nube\kIOSCO 8\obj\x86\Release\Matching_vb.frmmarcas_huella.resources
+C:\Users\lsegura\Desktop\Kiosco de la nube\kIOSCO 8\obj\x86\Release\Matching_vb.frmmensaje.resources
+C:\Users\lsegura\Desktop\Kiosco de la nube\kIOSCO 8\obj\x86\Release\Matching_vb.Frmvacaciones.resources
+C:\Users\lsegura\Desktop\Kiosco de la nube\kIOSCO 8\obj\x86\Release\Matching_vb.frmvalidarsupervisor.resources
+C:\Users\lsegura\Desktop\Kiosco de la nube\kIOSCO 8\obj\x86\Release\Matching_vb.Frmvistacomprobante.resources
+C:\Users\lsegura\Desktop\Kiosco de la nube\kIOSCO 8\obj\x86\Release\Matching_vb.Form1.resources
+C:\Users\lsegura\Desktop\Kiosco de la nube\kIOSCO 8\obj\x86\Release\Matching_vb.Resources.resources
+C:\Users\lsegura\Desktop\Kiosco de la nube\kIOSCO 8\obj\x86\Release\Matching_vb.vbproj.GenerateResource.Cache
+C:\kIOSCO 8\bin\x86\Release\Matching_vb.exe.config
+C:\kIOSCO 8\obj\x86\Release\Matching_vb.exe
+C:\kIOSCO 8\obj\x86\Release\Matching_vb.xml
+C:\kIOSCO 8\bin\x86\Release\Matching_vb.exe
+C:\kIOSCO 8\bin\x86\Release\Matching_vb.xml
+C:\kIOSCO 8\bin\x86\Release\itextsharp.dll
+C:\kIOSCO 8\obj\x86\Release\Matching_vb.Formmenu.resources
+C:\kIOSCO 8\obj\x86\Release\Matching_vb.frmcalendario.resources
+C:\kIOSCO 8\obj\x86\Release\Matching_vb.frmcomprobantepago.resources
+C:\kIOSCO 8\obj\x86\Release\Matching_vb.btn10000.resources
+C:\kIOSCO 8\obj\x86\Release\Matching_vb.frmcircular.resources
+C:\kIOSCO 8\obj\x86\Release\Matching_vb.Frmestadocuentaaseconstruplaza.resources
+C:\kIOSCO 8\obj\x86\Release\Matching_vb.frmjustificadas.resources
+C:\kIOSCO 8\obj\x86\Release\Matching_vb.Frmmarca.resources
+C:\kIOSCO 8\obj\x86\Release\Matching_vb.frmmarcas.resources
+C:\kIOSCO 8\obj\x86\Release\Matching_vb.Frmmarcasg.resources
+C:\kIOSCO 8\obj\x86\Release\Matching_vb.frmmarcas_huella.resources
+C:\kIOSCO 8\obj\x86\Release\Matching_vb.frmmensaje.resources
+C:\kIOSCO 8\obj\x86\Release\Matching_vb.Frmvacaciones.resources
+C:\kIOSCO 8\obj\x86\Release\Matching_vb.frmvalidarsupervisor.resources
+C:\kIOSCO 8\obj\x86\Release\Matching_vb.Frmvistacomprobante.resources
+C:\kIOSCO 8\obj\x86\Release\Matching_vb.Form1.resources
+C:\kIOSCO 8\obj\x86\Release\Matching_vb.Resources.resources
+C:\kIOSCO 8\obj\x86\Release\Matching_vb.vbproj.GenerateResource.Cache
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\ESCAZU\kIOSCO 8\bin\x86\Release\Matching_vb.exe.config
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\ESCAZU\kIOSCO 8\bin\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\ESCAZU\kIOSCO 8\bin\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\ESCAZU\kIOSCO 8\bin\x86\Release\itextsharp.dll
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.Formmenu.resources
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.frmcalendario.resources
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.frmcomprobantepago.resources
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.btn10000.resources
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.frmcircular.resources
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.Frmestadocuentaaseconstruplaza.resources
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.frmjustificadas.resources
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.Frmmarca.resources
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.frmmarcas.resources
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.Frmmarcasg.resources
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.frmmarcas_huella.resources
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.frmmensaje.resources
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.Frmvacaciones.resources
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.frmvalidarsupervisor.resources
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.Frmvistacomprobante.resources
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.Form1.resources
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.Resources.resources
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.vbproj.GenerateResource.Cache
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\bases\ESCAZU\kIOSCO 8\bin\x86\Release\Matching_vb.exe.config
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\bases\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\bases\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\bases\ESCAZU\kIOSCO 8\bin\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\bases\ESCAZU\kIOSCO 8\bin\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\bases\ESCAZU\kIOSCO 8\bin\x86\Release\itextsharp.dll
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\bases\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.Formmenu.resources
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\bases\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.frmcalendario.resources
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\bases\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.frmcomprobantepago.resources
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\bases\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.btn10000.resources
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\bases\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.frmcircular.resources
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\bases\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.Frmestadocuentaaseconstruplaza.resources
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\bases\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.frmjustificadas.resources
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\bases\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.Frmmarca.resources
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\bases\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.frmmarcas.resources
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\bases\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.Frmmarcasg.resources
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\bases\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.frmmarcas_huella.resources
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\bases\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.frmmensaje.resources
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\bases\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.Frmvacaciones.resources
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\bases\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.frmvalidarsupervisor.resources
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\bases\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.Frmvistacomprobante.resources
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\bases\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.Form1.resources
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\bases\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.Resources.resources
+C:\Users\lsegura\Desktop\KIOSCOS POR UBICACION\bases\ESCAZU\kIOSCO 8\obj\x86\Release\Matching_vb.vbproj.GenerateResource.Cache
+\\kioscoescazu\c$\kIOSCO 8\bin\x86\Release\Matching_vb.exe.config
+\\kioscoescazu\c$\kIOSCO 8\obj\x86\Release\Matching_vb.exe
+\\kioscoescazu\c$\kIOSCO 8\obj\x86\Release\Matching_vb.xml
+\\kioscoescazu\c$\kIOSCO 8\bin\x86\Release\Matching_vb.exe
+\\kioscoescazu\c$\kIOSCO 8\bin\x86\Release\Matching_vb.xml
+\\kioscoescazu\c$\kIOSCO 8\bin\x86\Release\itextsharp.dll
+\\kioscoescazu\c$\kIOSCO 8\obj\x86\Release\Matching_vb.Formmenu.resources
+\\kioscoescazu\c$\kIOSCO 8\obj\x86\Release\Matching_vb.frmcalendario.resources
+\\kioscoescazu\c$\kIOSCO 8\obj\x86\Release\Matching_vb.frmcomprobantepago.resources
+\\kioscoescazu\c$\kIOSCO 8\obj\x86\Release\Matching_vb.btn10000.resources
+\\kioscoescazu\c$\kIOSCO 8\obj\x86\Release\Matching_vb.frmcircular.resources
+\\kioscoescazu\c$\kIOSCO 8\obj\x86\Release\Matching_vb.Frmestadocuentaaseconstruplaza.resources
+\\kioscoescazu\c$\kIOSCO 8\obj\x86\Release\Matching_vb.frmjustificadas.resources
+\\kioscoescazu\c$\kIOSCO 8\obj\x86\Release\Matching_vb.Frmmarca.resources
+\\kioscoescazu\c$\kIOSCO 8\obj\x86\Release\Matching_vb.frmmarcas.resources
+\\kioscoescazu\c$\kIOSCO 8\obj\x86\Release\Matching_vb.Frmmarcasg.resources
+\\kioscoescazu\c$\kIOSCO 8\obj\x86\Release\Matching_vb.frmmarcas_huella.resources
+\\kioscoescazu\c$\kIOSCO 8\obj\x86\Release\Matching_vb.frmmensaje.resources
+\\kioscoescazu\c$\kIOSCO 8\obj\x86\Release\Matching_vb.Frmvacaciones.resources
+\\kioscoescazu\c$\kIOSCO 8\obj\x86\Release\Matching_vb.frmvalidarsupervisor.resources
+\\kioscoescazu\c$\kIOSCO 8\obj\x86\Release\Matching_vb.Frmvistacomprobante.resources
+\\kioscoescazu\c$\kIOSCO 8\obj\x86\Release\Matching_vb.Form1.resources
+\\kioscoescazu\c$\kIOSCO 8\obj\x86\Release\Matching_vb.Resources.resources
+\\kioscoescazu\c$\kIOSCO 8\obj\x86\Release\Matching_vb.vbproj.GenerateResource.Cache
+C:\Users\lsegura\Desktop\kIOSCO 8\bin\x86\Release\Matching_vb.exe.config
+C:\Users\lsegura\Desktop\kIOSCO 8\bin\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\kIOSCO 8\bin\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\kIOSCO 8\bin\x86\Release\itextsharp.dll
+C:\Users\lsegura\Desktop\kIOSCO 8\obj\x86\Release\Matching_vb.Formmenu.resources
+C:\Users\lsegura\Desktop\kIOSCO 8\obj\x86\Release\Matching_vb.frmcalendario.resources
+C:\Users\lsegura\Desktop\kIOSCO 8\obj\x86\Release\Matching_vb.frmcomprobantepago.resources
+C:\Users\lsegura\Desktop\kIOSCO 8\obj\x86\Release\Matching_vb.btn10000.resources
+C:\Users\lsegura\Desktop\kIOSCO 8\obj\x86\Release\Matching_vb.frmcircular.resources
+C:\Users\lsegura\Desktop\kIOSCO 8\obj\x86\Release\Matching_vb.Frmestadocuentaaseconstruplaza.resources
+C:\Users\lsegura\Desktop\kIOSCO 8\obj\x86\Release\Matching_vb.frmjustificadas.resources
+C:\Users\lsegura\Desktop\kIOSCO 8\obj\x86\Release\Matching_vb.Frmmarca.resources
+C:\Users\lsegura\Desktop\kIOSCO 8\obj\x86\Release\Matching_vb.frmmarcas.resources
+C:\Users\lsegura\Desktop\kIOSCO 8\obj\x86\Release\Matching_vb.Frmmarcasg.resources
+C:\Users\lsegura\Desktop\kIOSCO 8\obj\x86\Release\Matching_vb.frmmarcas_huella.resources
+C:\Users\lsegura\Desktop\kIOSCO 8\obj\x86\Release\Matching_vb.frmmensaje.resources
+C:\Users\lsegura\Desktop\kIOSCO 8\obj\x86\Release\Matching_vb.Frmvacaciones.resources
+C:\Users\lsegura\Desktop\kIOSCO 8\obj\x86\Release\Matching_vb.frmvalidarsupervisor.resources
+C:\Users\lsegura\Desktop\kIOSCO 8\obj\x86\Release\Matching_vb.Frmvistacomprobante.resources
+C:\Users\lsegura\Desktop\kIOSCO 8\obj\x86\Release\Matching_vb.Form1.resources
+C:\Users\lsegura\Desktop\kIOSCO 8\obj\x86\Release\Matching_vb.Resources.resources
+C:\Users\lsegura\Desktop\kIOSCO 8\obj\x86\Release\Matching_vb.vbproj.GenerateResource.Cache
+C:\Users\lsegura\Desktop\kIOSCO 8\obj\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\kIOSCO 8\obj\x86\Release\Matching_vb.xml
+C:\kIOSCO 8\obj\x86\Release\Matching_vb.Frmaguinaldo.resources
+C:\kIOSCO 8\obj\x86\Release\Matching_vb.frmmarca_clave.resources
+C:\kIOSCO 8\obj\x86\Release\Matching_vb.Frmtecladovb.resources
+C:\kIOSCO 8\obj\x86\Release\Matching_vb.Frmestadoquarzo.resources
+C:\kIOSCO 8\obj\x86\Release\Matching_vb.XmlSerializers.dll
+C:\kIOSCO 8\bin\x86\Release\Matching_vb.XmlSerializers.dll
+C:\kIOSCO 8\obj\x86\Release\Matching_vb.Frmactualizaempleado.resources
+C:\kIOSCO 8\obj\x86\Release\Matching_vb.FrmcreditosQuarzo.resources
+G:\Mi unidad\Construplaza\Desarrollos Luis Segura\Ultimo Kiosco\kIOSCO 8\bin\x86\Release\Matching_vb.exe.config
+G:\Mi unidad\Construplaza\Desarrollos Luis Segura\Ultimo Kiosco\kIOSCO 8\obj\x86\Release\Matching_vb.exe
+G:\Mi unidad\Construplaza\Desarrollos Luis Segura\Ultimo Kiosco\kIOSCO 8\obj\x86\Release\Matching_vb.xml
+G:\Mi unidad\Construplaza\Desarrollos Luis Segura\Ultimo Kiosco\kIOSCO 8\obj\x86\Release\Matching_vb.XmlSerializers.dll
+C:\Users\lsegura\Desktop\kIOSCO 8\obj\x86\Release\Matching_vb.XmlSerializers.dll
+C:\Users\lsegura\Desktop\kIOSCO 8\obj\x86\Release\Matching_vb.vbprojResolveAssemblyReference.cache
+C:\Users\lsegura\Desktop\kIOSCO 8\obj\x86\Release\Matching_vb.Frmactualizaempleado.resources
+C:\Users\lsegura\Desktop\kIOSCO 8\obj\x86\Release\Matching_vb.Frmaguinaldo.resources
+C:\Users\lsegura\Desktop\kIOSCO 8\obj\x86\Release\Matching_vb.FrmcreditosQuarzo.resources
+C:\Users\lsegura\Desktop\kIOSCO 8\obj\x86\Release\Matching_vb.Frmestadoquarzo.resources
+C:\Users\lsegura\Desktop\kIOSCO 8\obj\x86\Release\Matching_vb.frmmarca_clave.resources
+C:\Users\lsegura\Desktop\kIOSCO 8\obj\x86\Release\Matching_vb.Frmtecladovb.resources
+C:\kIOSCO 8\obj\x86\Release\Matching_vb.vbprojResolveAssemblyReference.cache
+G:\Mi unidad\kIOSCO 8\bin\x86\Release\Matching_vb.exe.config
+G:\Mi unidad\kIOSCO 8\obj\x86\Release\Matching_vb.exe
+G:\Mi unidad\kIOSCO 8\obj\x86\Release\Matching_vb.xml
+G:\Mi unidad\kIOSCO 8\obj\x86\Release\Matching_vb.XmlSerializers.dll
+G:\Mi unidad\kIOSCO 8\bin\x86\Release\Matching_vb.exe
+G:\Mi unidad\kIOSCO 8\bin\x86\Release\Matching_vb.XmlSerializers.dll
+G:\Mi unidad\kIOSCO 8\bin\x86\Release\Matching_vb.xml
+G:\Mi unidad\kIOSCO 8\bin\x86\Release\itextsharp.dll
+G:\Mi unidad\kIOSCO 8\obj\x86\Release\Matching_vb.Formmenu.resources
+G:\Mi unidad\kIOSCO 8\obj\x86\Release\Matching_vb.Frmactualizaempleado.resources
+G:\Mi unidad\kIOSCO 8\obj\x86\Release\Matching_vb.Frmaguinaldo.resources
+G:\Mi unidad\kIOSCO 8\obj\x86\Release\Matching_vb.frmcalendario.resources
+G:\Mi unidad\kIOSCO 8\obj\x86\Release\Matching_vb.frmcomprobantepago.resources
+G:\Mi unidad\kIOSCO 8\obj\x86\Release\Matching_vb.btn10000.resources
+G:\Mi unidad\kIOSCO 8\obj\x86\Release\Matching_vb.FrmcreditosQuarzo.resources
+G:\Mi unidad\kIOSCO 8\obj\x86\Release\Matching_vb.frmcircular.resources
+G:\Mi unidad\kIOSCO 8\obj\x86\Release\Matching_vb.Frmestadocuentaaseconstruplaza.resources
+G:\Mi unidad\kIOSCO 8\obj\x86\Release\Matching_vb.Frmestadoquarzo.resources
+G:\Mi unidad\kIOSCO 8\obj\x86\Release\Matching_vb.frmjustificadas.resources
+G:\Mi unidad\kIOSCO 8\obj\x86\Release\Matching_vb.Frmmarca.resources
+G:\Mi unidad\kIOSCO 8\obj\x86\Release\Matching_vb.frmmarcas.resources
+G:\Mi unidad\kIOSCO 8\obj\x86\Release\Matching_vb.Frmmarcasg.resources
+G:\Mi unidad\kIOSCO 8\obj\x86\Release\Matching_vb.frmmarcas_huella.resources
+G:\Mi unidad\kIOSCO 8\obj\x86\Release\Matching_vb.frmmarca_clave.resources
+G:\Mi unidad\kIOSCO 8\obj\x86\Release\Matching_vb.frmmensaje.resources
+G:\Mi unidad\kIOSCO 8\obj\x86\Release\Matching_vb.Frmtecladovb.resources
+G:\Mi unidad\kIOSCO 8\obj\x86\Release\Matching_vb.Frmvacaciones.resources
+G:\Mi unidad\kIOSCO 8\obj\x86\Release\Matching_vb.frmvalidarsupervisor.resources
+G:\Mi unidad\kIOSCO 8\obj\x86\Release\Matching_vb.Frmvistacomprobante.resources
+G:\Mi unidad\kIOSCO 8\obj\x86\Release\Matching_vb.Form1.resources
+G:\Mi unidad\kIOSCO 8\obj\x86\Release\Matching_vb.Resources.resources
+G:\Mi unidad\kIOSCO 8\obj\x86\Release\Matching_vb.vbproj.GenerateResource.Cache
+C:\kIOSCO 8 AWS\bin\x86\Release\Matching_vb.exe.config
+C:\kIOSCO 8 AWS\obj\x86\Release\Matching_vb.exe
+C:\kIOSCO 8 AWS\obj\x86\Release\Matching_vb.xml
+C:\kIOSCO 8 AWS\obj\x86\Release\Matching_vb.XmlSerializers.dll
+C:\kIOSCO 8 AWS\bin\x86\Release\Matching_vb.exe
+C:\kIOSCO 8 AWS\bin\x86\Release\Matching_vb.XmlSerializers.dll
+C:\kIOSCO 8 AWS\bin\x86\Release\Matching_vb.xml
+C:\kIOSCO 8 AWS\bin\x86\Release\itextsharp.dll
+C:\kIOSCO 8 AWS\obj\x86\Release\Matching_vb.Formmenu.resources
+C:\kIOSCO 8 AWS\obj\x86\Release\Matching_vb.Frmactualizaempleado.resources
+C:\kIOSCO 8 AWS\obj\x86\Release\Matching_vb.Frmaguinaldo.resources
+C:\kIOSCO 8 AWS\obj\x86\Release\Matching_vb.frmcalendario.resources
+C:\kIOSCO 8 AWS\obj\x86\Release\Matching_vb.frmcomprobantepago.resources
+C:\kIOSCO 8 AWS\obj\x86\Release\Matching_vb.btn10000.resources
+C:\kIOSCO 8 AWS\obj\x86\Release\Matching_vb.FrmcreditosQuarzo.resources
+C:\kIOSCO 8 AWS\obj\x86\Release\Matching_vb.frmcircular.resources
+C:\kIOSCO 8 AWS\obj\x86\Release\Matching_vb.Frmestadocuentaaseconstruplaza.resources
+C:\kIOSCO 8 AWS\obj\x86\Release\Matching_vb.Frmestadoquarzo.resources
+C:\kIOSCO 8 AWS\obj\x86\Release\Matching_vb.frmjustificadas.resources
+C:\kIOSCO 8 AWS\obj\x86\Release\Matching_vb.Frmmarca.resources
+C:\kIOSCO 8 AWS\obj\x86\Release\Matching_vb.frmmarcas.resources
+C:\kIOSCO 8 AWS\obj\x86\Release\Matching_vb.Frmmarcasg.resources
+C:\kIOSCO 8 AWS\obj\x86\Release\Matching_vb.frmmarcas_huella.resources
+C:\kIOSCO 8 AWS\obj\x86\Release\Matching_vb.frmmarca_clave.resources
+C:\kIOSCO 8 AWS\obj\x86\Release\Matching_vb.frmmensaje.resources
+C:\kIOSCO 8 AWS\obj\x86\Release\Matching_vb.Frmtecladovb.resources
+C:\kIOSCO 8 AWS\obj\x86\Release\Matching_vb.Frmvacaciones.resources
+C:\kIOSCO 8 AWS\obj\x86\Release\Matching_vb.frmvalidarsupervisor.resources
+C:\kIOSCO 8 AWS\obj\x86\Release\Matching_vb.Frmvistacomprobante.resources
+C:\kIOSCO 8 AWS\obj\x86\Release\Matching_vb.Form1.resources
+C:\kIOSCO 8 AWS\obj\x86\Release\Matching_vb.Resources.resources
+C:\kIOSCO 8 AWS\obj\x86\Release\Matching_vb.vbproj.GenerateResource.Cache
+Z:\Respaldo Desarrollos\kIOSCO 8 AWS\bin\x86\Release\Matching_vb.exe.config
+Z:\Respaldo Desarrollos\kIOSCO 8 AWS\obj\x86\Release\Matching_vb.exe
+Z:\Respaldo Desarrollos\kIOSCO 8 AWS\obj\x86\Release\Matching_vb.xml
+Z:\Respaldo Desarrollos\kIOSCO 8 AWS\obj\x86\Release\Matching_vb.XmlSerializers.dll
+D:\kIOSCO 8 AWS 27\bin\x86\Release\Matching_vb.exe.config
+D:\kIOSCO 8 AWS 27\obj\x86\Release\Matching_vb.exe
+D:\kIOSCO 8 AWS 27\obj\x86\Release\Matching_vb.xml
+D:\kIOSCO 8 AWS 27\obj\x86\Release\Matching_vb.XmlSerializers.dll
+C:\Users\lsegura\Desktop\GITHUB\construplaza\kIOSCO 8 AWS\bin\x86\Release\Matching_vb.exe.config
+C:\Users\lsegura\Desktop\GITHUB\construplaza\kIOSCO 8 AWS\obj\x86\Release\Matching_vb.exe
+C:\Users\lsegura\Desktop\GITHUB\construplaza\kIOSCO 8 AWS\obj\x86\Release\Matching_vb.xml
+C:\Users\lsegura\Desktop\GITHUB\construplaza\kIOSCO 8 AWS\obj\x86\Release\Matching_vb.XmlSerializers.dll

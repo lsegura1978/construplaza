@@ -1,0 +1,19 @@
+D:\work\Project\FDxSDKPro\DotNET\Samples\VB.NET\Matching\obj\Debug\Matching_vb.vbprojResolveAssemblyReference.cache
+D:\work\Project\FDxSDKPro\DotNET\Samples\VB.NET\Matching\obj\Debug\Matching_vb.Form1.resources
+D:\work\Project\FDxSDKPro\DotNET\Samples\VB.NET\Matching\obj\Debug\Matching_vb.vbproj.GenerateResource.Cache
+D:\work\Project\FDxSDKPro\DotNET\Samples\VB.NET\Matching\bin\Matching_vb.exe.config
+D:\work\Project\FDxSDKPro\DotNET\Samples\VB.NET\Matching\bin\Matching_vb.exe
+D:\work\Project\FDxSDKPro\DotNET\Samples\VB.NET\Matching\bin\Matching_vb.pdb
+D:\work\Project\FDxSDKPro\DotNET\Samples\VB.NET\Matching\bin\Matching_vb.xml
+D:\work\Project\FDxSDKPro\DotNET\Samples\VB.NET\Matching\bin\SecuGen.FDxSDKPro.Windows.dll
+D:\work\Project\FDxSDKPro\DotNET\Samples\VB.NET\Matching\obj\Debug\Matching_vb.exe
+D:\work\Project\FDxSDKPro\DotNET\Samples\VB.NET\Matching\obj\Debug\Matching_vb.xml
+D:\work\Project\FDxSDKPro\DotNET\Samples\VB.NET\Matching\obj\Debug\Matching_vb.pdb
+D:\workspace\FDx SDK Pro for Windows Releases\FDx SDK Pro for Windows 3.8\DotNET\Samples\VB.NET\Matching\bin\Matching_vb.exe.config
+D:\workspace\FDx SDK Pro for Windows Releases\FDx SDK Pro for Windows 3.8\DotNET\Samples\VB.NET\Matching\obj\Debug\Matching_vb.exe
+D:\workspace\FDx SDK Pro for Windows Releases\FDx SDK Pro for Windows 3.8\DotNET\Samples\VB.NET\Matching\obj\Debug\Matching_vb.xml
+D:\workspace\FDx SDK Pro for Windows Releases\FDx SDK Pro for Windows 3.8\DotNET\Samples\VB.NET\Matching\obj\Debug\Matching_vb.pdb
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 5\kIOSCO 5\bin\Matching_vb.exe.config
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 5\kIOSCO 5\obj\Debug\Matching_vb.exe
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 5\kIOSCO 5\obj\Debug\Matching_vb.xml
+C:\Users\lsegura\Desktop\Desarrollos Luis Segura\2018\Kiosco\Kiosco 5\kIOSCO 5\obj\Debug\Matching_vb.pdb

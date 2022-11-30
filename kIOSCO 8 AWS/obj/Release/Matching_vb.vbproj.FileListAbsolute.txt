@@ -1,0 +1,26 @@
+D:\workspace\FDx SDK Pro for Windows Releases\FDx SDK Pro for Windows 3.8\DotNET\Samples\VB.NET\Matching\bin\Matching_vb.exe.config
+C:\kIOSCO 8\bin\Matching_vb.exe.config
+C:\kIOSCO 8\obj\Release\Matching_vb.Formmenu.resources
+C:\kIOSCO 8\obj\Release\Matching_vb.Frmactualizaempleado.resources
+C:\kIOSCO 8\obj\Release\Matching_vb.Frmaguinaldo.resources
+C:\kIOSCO 8\obj\Release\Matching_vb.frmcalendario.resources
+C:\kIOSCO 8\obj\Release\Matching_vb.frmcomprobantepago.resources
+C:\kIOSCO 8\obj\Release\Matching_vb.btn10000.resources
+C:\kIOSCO 8\obj\Release\Matching_vb.FrmcreditosQuarzo.resources
+C:\kIOSCO 8\obj\Release\Matching_vb.frmcircular.resources
+C:\kIOSCO 8\obj\Release\Matching_vb.Frmestadocuentaaseconstruplaza.resources
+C:\kIOSCO 8\obj\Release\Matching_vb.Frmestadoquarzo.resources
+C:\kIOSCO 8\obj\Release\Matching_vb.frmjustificadas.resources
+C:\kIOSCO 8\obj\Release\Matching_vb.Frmmarca.resources
+C:\kIOSCO 8\obj\Release\Matching_vb.frmmarcas.resources
+C:\kIOSCO 8\obj\Release\Matching_vb.Frmmarcasg.resources
+C:\kIOSCO 8\obj\Release\Matching_vb.frmmarcas_huella.resources
+C:\kIOSCO 8\obj\Release\Matching_vb.frmmarca_clave.resources
+C:\kIOSCO 8\obj\Release\Matching_vb.frmmensaje.resources
+C:\kIOSCO 8\obj\Release\Matching_vb.Frmtecladovb.resources
+C:\kIOSCO 8\obj\Release\Matching_vb.Frmvacaciones.resources
+C:\kIOSCO 8\obj\Release\Matching_vb.frmvalidarsupervisor.resources
+C:\kIOSCO 8\obj\Release\Matching_vb.Frmvistacomprobante.resources
+C:\kIOSCO 8\obj\Release\Matching_vb.Form1.resources
+C:\kIOSCO 8\obj\Release\Matching_vb.Resources.resources
+C:\kIOSCO 8\obj\Release\Matching_vb.vbproj.GenerateResource.Cache

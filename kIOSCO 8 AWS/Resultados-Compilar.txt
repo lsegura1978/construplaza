@@ -1,0 +1,40 @@
+﻿------ Operación Compilar iniciada: proyecto: Matching_vb, configuración: Release x86 ------
+C:\kIOSCO 8 AWS\Frmactualizaempleado.vb(18) : warning BC40025: El tipo de miembro 'imagen' no es conforme a CLS.
+C:\kIOSCO 8 AWS\Frmactualizaempleado.vb(19) : warning BC40025: El tipo de miembro 'imagen_firma' no es conforme a CLS.
+C:\kIOSCO 8 AWS\Frmactualizaempleado.vb(1070) : warning BC42104: La variable 'PROVINCIA_EMPLEADO' se utiliza antes de que se le haya asignado un valor. Podría darse una excepción de referencia nula en tiempo de ejecución.
+C:\kIOSCO 8 AWS\Frmactualizaempleado.vb(1093) : warning BC42104: La variable 'CANTON_EMPLEADO' se utiliza antes de que se le haya asignado un valor. Podría darse una excepción de referencia nula en tiempo de ejecución.
+C:\kIOSCO 8 AWS\Frmactualizaempleado.vb(1125) : warning BC42104: La variable 'NACIONALIDAD' se utiliza antes de que se le haya asignado un valor. Podría darse una excepción de referencia nula en tiempo de ejecución.
+C:\kIOSCO 8 AWS\Frmactualizaempleado.vb(1125) : warning BC42104: La variable 'ESTADO_CIVIL' se utiliza antes de que se le haya asignado un valor. Podría darse una excepción de referencia nula en tiempo de ejecución.
+C:\kIOSCO 8 AWS\Frmactualizaempleado.vb(1125) : warning BC42104: La variable 'DISTRITO_EMPLEADO' se utiliza antes de que se le haya asignado un valor. Podría darse una excepción de referencia nula en tiempo de ejecución.
+C:\kIOSCO 8 AWS\Frmactualizaempleado.vb(1277) : warning BC42104: La variable 'cantones' se utiliza antes de que se le haya asignado un valor. Podría darse una excepción de referencia nula en tiempo de ejecución.
+C:\kIOSCO 8 AWS\Frmactualizaempleado.vb(2733) : warning BC42104: La variable 'cantoness' se utiliza antes de que se le haya asignado un valor. Podría darse una excepción de referencia nula en tiempo de ejecución.
+C:\kIOSCO 8 AWS\Frmactualizaempleado.vb(2753) : warning BC42104: La variable 'distrito' se utiliza antes de que se le haya asignado un valor. Podría darse una excepción de referencia nula en tiempo de ejecución.
+C:\kIOSCO 8 AWS\Frmactualizaempleado.vb(3002) : warning BC42104: La variable 'PROVINCIA_EMPLEADO' se utiliza antes de que se le haya asignado un valor. Podría darse una excepción de referencia nula en tiempo de ejecución.
+C:\kIOSCO 8 AWS\Frmactualizaempleado.vb(3025) : warning BC42104: La variable 'CANTON_EMPLEADO' se utiliza antes de que se le haya asignado un valor. Podría darse una excepción de referencia nula en tiempo de ejecución.
+C:\kIOSCO 8 AWS\Frmactualizaempleado.vb(3058) : warning BC42104: La variable 'NACIONALIDAD' se utiliza antes de que se le haya asignado un valor. Podría darse una excepción de referencia nula en tiempo de ejecución.
+C:\kIOSCO 8 AWS\Frmactualizaempleado.vb(3058) : warning BC42104: La variable 'ESTADO_CIVIL' se utiliza antes de que se le haya asignado un valor. Podría darse una excepción de referencia nula en tiempo de ejecución.
+C:\kIOSCO 8 AWS\Frmactualizaempleado.vb(3058) : warning BC42104: La variable 'DISTRITO_EMPLEADO' se utiliza antes de que se le haya asignado un valor. Podría darse una excepción de referencia nula en tiempo de ejecución.
+C:\kIOSCO 8 AWS\Frmaguinaldo.vb(81) : warning BC40025: El tipo de miembro 'imagen' no es conforme a CLS.
+C:\kIOSCO 8 AWS\Frmconstancia.vb(19) : warning BC40025: El tipo de miembro 'imagen' no es conforme a CLS.
+C:\kIOSCO 8 AWS\Frmconstancia.vb(20) : warning BC40025: El tipo de miembro 'imagen_firma' no es conforme a CLS.
+C:\kIOSCO 8 AWS\Frmestadocuentaaseconstruplaza.vb(76) : warning BC40025: El tipo de miembro 'imagen' no es conforme a CLS.
+C:\kIOSCO 8 AWS\Frmestadoquarzo.vb(68) : warning BC40025: El tipo de miembro 'imagen' no es conforme a CLS.
+C:\kIOSCO 8 AWS\Frmvistacomprobante.vb(77) : warning BC40025: El tipo de miembro 'imagen' no es conforme a CLS.
+C:\kIOSCO 8 AWS\frmcalendario.vb(75) : warning BC40025: El tipo de miembro 'imagen' no es conforme a CLS.
+C:\kIOSCO 8 AWS\frmcomprobantepago.vb(70) : warning BC40025: El tipo de miembro 'imagen' no es conforme a CLS.
+C:\kIOSCO 8 AWS\frmjustificadas.vb(536) : warning BC42024: Variable local sin utilizar: 'fechaferiado'.
+C:\kIOSCO 8 AWS\frmjustificadas.vb(597) : warning BC42104: La variable 'FERIADO' se utiliza antes de que se le haya asignado un valor. Podría darse una excepción de referencia nula en tiempo de ejecución.
+C:\kIOSCO 8 AWS\frmmarca_clave.vb(95) : warning BC42024: Variable local sin utilizar: 'iError'.
+C:\kIOSCO 8 AWS\frmmarca_clave.vb(1319) : warning BC42104: La variable 'TESTADO_ENTRADA' se utiliza antes de que se le haya asignado un valor. Podría darse una excepción de referencia nula en tiempo de ejecución.
+C:\kIOSCO 8 AWS\frmmarca_clave.vb(1322) : warning BC42104: La variable 'TNOMBRE' se utiliza antes de que se le haya asignado un valor. Podría darse una excepción de referencia nula en tiempo de ejecución.
+C:\kIOSCO 8 AWS\frmmarca_clave.vb(1324) : warning BC42104: La variable 'THORA_ENTRADA_OFICIAL' se utiliza antes de que se le haya asignado un valor. Podría darse una excepción de referencia nula en tiempo de ejecución.
+C:\kIOSCO 8 AWS\frmmarca_clave.vb(1483) : warning BC42104: La variable 'TESTADO_SALIDA' se utiliza antes de que se le haya asignado un valor. Podría darse una excepción de referencia nula en tiempo de ejecución.
+C:\kIOSCO 8 AWS\frmmarca_clave.vb(1490) : warning BC42104: La variable 'THORA_SALIDA_OFICIAL' se utiliza antes de que se le haya asignado un valor. Podría darse una excepción de referencia nula en tiempo de ejecución.
+C:\kIOSCO 8 AWS\frmmarcas.vb(76) : warning BC40025: El tipo de miembro 'imagen' no es conforme a CLS.
+C:\kIOSCO 8 AWS\frmmarcas_huella.vb(1365) : warning BC42104: La variable 'TESTADO_ENTRADA' se utiliza antes de que se le haya asignado un valor. Podría darse una excepción de referencia nula en tiempo de ejecución.
+C:\kIOSCO 8 AWS\frmmarcas_huella.vb(1368) : warning BC42104: La variable 'TNOMBRE' se utiliza antes de que se le haya asignado un valor. Podría darse una excepción de referencia nula en tiempo de ejecución.
+C:\kIOSCO 8 AWS\frmmarcas_huella.vb(1370) : warning BC42104: La variable 'THORA_ENTRADA_OFICIAL' se utiliza antes de que se le haya asignado un valor. Podría darse una excepción de referencia nula en tiempo de ejecución.
+C:\kIOSCO 8 AWS\frmmarcas_huella.vb(1538) : warning BC42104: La variable 'TESTADO_SALIDA' se utiliza antes de que se le haya asignado un valor. Podría darse una excepción de referencia nula en tiempo de ejecución.
+C:\kIOSCO 8 AWS\frmmarcas_huella.vb(1545) : warning BC42104: La variable 'THORA_SALIDA_OFICIAL' se utiliza antes de que se le haya asignado un valor. Podría darse una excepción de referencia nula en tiempo de ejecución.
+  Matching_vb -> C:\kIOSCO 8 AWS\bin\x86\Release\Matching_vb.exe
+========== Compilar: 1 correctos, 0 incorrectos, 0 actualizados, 0 omitidos ==========
